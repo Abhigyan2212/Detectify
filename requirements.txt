@@ -1,0 +1,6 @@
+torch
+torchvision
+gradio       # or streamlit, depending on your choice
+ultralytics
+Pillow
+albumentations
